@@ -1,4 +1,4 @@
-# tallerAngular
+# Taller de Angular y .net core 6
 # Comandos para remover caché
 ```
 git rm -r --cached .
